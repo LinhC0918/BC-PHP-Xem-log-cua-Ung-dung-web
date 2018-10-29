@@ -1,0 +1,10 @@
+[Mon Oct 29 14:05:49.943496 2018] [mpm_event:notice] [pid 7275:tid 139622456789952] AH00489: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Oct 29 14:05:49.943595 2018] [core:notice] [pid 7275:tid 139622456789952] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 29 14:17:35.129175 2018] [mpm_event:notice] [pid 7275:tid 139622456789952] AH00491: caught SIGTERM, shutting down
+[Mon Oct 29 14:17:35.264100 2018] [mpm_prefork:notice] [pid 19470] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Oct 29 14:17:35.264153 2018] [core:notice] [pid 19470] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 29 14:25:23.337510 2018] [mpm_prefork:notice] [pid 19470] AH00169: caught SIGTERM, shutting down
+[Mon Oct 29 14:25:24.156367 2018] [mpm_prefork:notice] [pid 20288] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Oct 29 14:25:24.156430 2018] [core:notice] [pid 20288] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 29 14:40:39.158663 2018] [php7:notice] [pid 21405] [client ::1:43390] PHP Notice:  Undefined index: username in /var/www/html/Chuc nang dang nhap/Chuc-nang-dang-nhap_GET.php on line 18, referer: http://localhost/Chuc%20nang%20dang%20nhap/
+[Mon Oct 29 14:40:39.158745 2018] [php7:notice] [pid 21405] [client ::1:43390] PHP Notice:  Undefined index: password in /var/www/html/Chuc nang dang nhap/Chuc-nang-dang-nhap_GET.php on line 19, referer: http://localhost/Chuc%20nang%20dang%20nhap/
